@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-I'm Guilherme, a ***full-stack software developer*** focused on building ***AI solutions*** and ***microservices*** for Virtual Assistants. 
+I'm Guilherme, a ***full-stack software developer*** focused on building ***serverless architectures***, ***AI solutions***, and ***microservices*** for enterprise applications.
 
-I take part in the entire product journey, from *solution architecture design* to implementation and optimization, evaluating technologies, developing components, and estimating resource costs. Currently, I work at [Positivo S+](https://www.positivosmais.com/en/) with a focus on *B2B solutions*.
+I take part in the entire product journey, from *solution architecture design* to implementation and optimization, evaluating technologies, developing components, and estimating resource costs. Currently, I work at [Positivo S+](https://www.positivosmais.com/en/) with a focus on *B2B solutions* for large-scale clients.
 
 In addition, I'm completing my Ph.D. in *Biomedical Engineering* at [UFU](https://www.ufu.br), where I work with *Computational Simulations*, *Machine Learning*, and *Neural Networks*.
 
 ```
-Languages    │ Python, JavaScript, Node.js
+Languages    │ Python, Node.js, JavaScript
 Frontend     │ React, Vite, Tailwind CSS
-Backend      │ Flask, FastAPI, Express
-Databases    │ MongoDB, DynamoDB
+Backend      │ FastAPI, Flask, Boto3, AWS SDKs, Express.js, Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib
+Databases    │ DynamoDB, MongoDB, RDS (PostgreSQL/MySQL/SQL Server)
 Cloud        │ AWS, Azure, GCP
-Tools        │ Git, Docker, Postman
+Tools        │ Git, Docker, Serverless Framework, OpenTofu, CI/CD, Postman
+Platforms    │ PyCharm, Jupyter Notebook, WebStorm, Visual Studio Code  
 ```
 
 <!--
