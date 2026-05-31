@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Guilherme, a ***full-stack software developer*** focused on building ***serverless architectures***, ***AI solutions***, and ***microservices*** for enterprise applications.
+I'm Guilherme, a ***senior software engineer*** focused on building ***serverless architectures***, ***AI solutions***, and ***microservices*** for enterprise applications.
 
 I take part in the entire product journey, from *solution architecture design* to implementation and optimization, evaluating technologies, developing components, and estimating resource costs. Currently, I work at [NTT Data Europe & Latam](https://us.nttdata.com/en/) with a focus on *B2B solutions* for large-scale clients.
 
